@@ -5,6 +5,8 @@
 [![Dashboard](https://img.shields.io/badge/🌐_Live_Dashboard-Visit-black?style=for-the-badge)](https://shorts-generator-projects.vercel.app/dashboard)
 [![YouTube](https://img.shields.io/badge/📺_YouTube-Watch-red?style=for-the-badge)](https://www.youtube.com/channel/UCO6JXWQh_l4Tk9ld4UIr46Q/)
 
+![ShortsFlow AI Extraction](./demo.png)
+
 ---
 
 ## What Is This?
