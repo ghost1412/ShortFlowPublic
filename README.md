@@ -55,11 +55,15 @@ The dashboard (multi-user SaaS) → **[Live Dashboard](https://shorts-generator-
 
 ---
 
-## Access
+## Access & Waitlist
 
-This repo is **not publicly cloneable**.
+This repository is **not publicly cloneable** while the engine is in active development.
 
-If you're interested in the source code, the architecture, or running your own instance — **open an issue or reach out directly.**
+If you are a content creator, agency owner, or developer interested in the source code or early access:
+
+👉 **[Join the Waitlist (Google Form)](https://forms.gle/55ScHPeoW4qF17AB6)**
+
+Once you join, you'll be notified of new releases, architecture deep-dives, and when we open the repo for contributors.
 
 ---
 
